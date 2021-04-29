@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "박우빈"
+name                     : "박 우 빈"
 description              : "용인외대부고 자연계열 2학년"
 url                      : "https://tessa0902.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
